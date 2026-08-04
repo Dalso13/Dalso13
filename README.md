@@ -1,54 +1,44 @@
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+<h2 align="center">📱 Mobile Developer 📱</h2>
+<p align="center">Android · iOS · React Native — 세 플랫폼을 같은 아키텍처로</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalso13&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📱 Mobile</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ff0000?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-0067a3?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-008080?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Postgresql-0067a3?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/docker-0067a3?style=flat-square&logo=Docker&logoColor=blue"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS-FFA500?style=flat-square&logo=Amazon&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp
-  
-  
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <a href="https://nervous-pamphlet-1f1.notion.site/69e13e46006240f683b125f8be414177?pvs=4"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black&link=https://nervous-pamphlet-1f1.notion.site/69e13e46006240f683b125f8be414177?pvs=4"/></a>&nbsp
-  <a href="mailto:jangdongwan0313@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekfth03130@gmail.com"/></a>&nbsp
-  <a href="https://hub.docker.com/repositories/dongwanjang"><img src="https://img.shields.io/badge/docker hub-0067a3??style=flat-square&logo=docker&logoColor=blue&link=https://hub.docker.com/repositories/dongwanjang"/></a>&nbsp
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/Linkedin-0067a3??style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
+<h3 align="center">🖥 Desktop</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+</p>
 
+<h3 align="center">🌐 Web</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
-
-<!--
-**Dalso13/Dalso13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🛠 Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+</p>

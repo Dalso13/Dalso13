@@ -1,5 +1,4 @@
-<h2 align="center">📱 Mobile Developer 📱</h2>
-<p align="center">Android · iOS · React Native — 세 플랫폼을 같은 아키텍처로</p>
+<h2 align="center">Mobile Developer</h2>
 
 <h3 align="center">📱 Mobile</h3>
 <p align="center">

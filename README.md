@@ -1,7 +1,7 @@
 <h2 align="center">Mobile Developer</h2>
 
 <p align="center">
-  <a href="https://dalso.app">
+  <a href="https://dalso.app" target="_blank" rel="noopener noreferrer">
     <img src="https://dalso.app/og.png" width="640" alt="dalso.app"/>
   </a>
 </p>
@@ -12,15 +12,14 @@
   텍스트 뷰어 · 비디오 플레이어 · 파일 매니저를 1인 개발하는 뷰어 앱 브랜드
 </p>
 <p align="center">
-  <a href="https://dalso.app/mv-player"><img src="https://img.shields.io/badge/Video_Player-1D1D1F?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://dalso.app/text-viewer"><img src="https://img.shields.io/badge/Text_Viewer-1D1D1F?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
-  <a href="https://dalso.app/file-manager"><img src="https://img.shields.io/badge/File_Manager-1D1D1F?style=for-the-badge&logo=files&logoColor=white"/></a>
+  <a href="https://dalso.app/mv-player" target="_blank" rel="noopener noreferrer"><img src="https://dalso.app/apple-touch-icon.png" height="28" alt=""/><img src="https://img.shields.io/badge/Video_Player-1D1D1F?style=for-the-badge" alt="Video Player"/></a>
+  <a href="https://dalso.app/text-viewer" target="_blank" rel="noopener noreferrer"><img src="https://dalso.app/apple-touch-icon.png" height="28" alt=""/><img src="https://img.shields.io/badge/Text_Viewer-1D1D1F?style=for-the-badge" alt="Text Viewer"/></a>
+  <a href="https://dalso.app/file-manager" target="_blank" rel="noopener noreferrer"><img src="https://dalso.app/apple-touch-icon.png" height="28" alt=""/><img src="https://img.shields.io/badge/File_Manager-1D1D1F?style=for-the-badge" alt="File Manager"/></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/11_Languages-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Coming_Soon-F5A623?style=flat-square"/>
 </p>
 
 <br/>

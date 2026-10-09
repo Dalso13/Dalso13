@@ -1,5 +1,30 @@
 <h2 align="center">Mobile Developer</h2>
 
+<p align="center">
+  <a href="https://dalso.app">
+    <img src="https://dalso.app/og.png" width="640" alt="dalso.app"/>
+  </a>
+</p>
+
+<h3 align="center">🚀 dalso.app</h3>
+<p align="center">
+  Viewer apps for iOS &amp; Android — planned, designed, built and shipped solo.<br/>
+  텍스트 뷰어 · 비디오 플레이어 · 파일 매니저를 1인 개발하는 뷰어 앱 브랜드
+</p>
+<p align="center">
+  <a href="https://dalso.app/mv-player"><img src="https://img.shields.io/badge/Video_Player-1D1D1F?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://dalso.app/text-viewer"><img src="https://img.shields.io/badge/Text_Viewer-1D1D1F?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+  <a href="https://dalso.app/file-manager"><img src="https://img.shields.io/badge/File_Manager-1D1D1F?style=for-the-badge&logo=files&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/11_Languages-555555?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coming_Soon-F5A623?style=flat-square"/>
+</p>
+
+<br/>
+
 <h3 align="center">📱 Mobile</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -30,6 +55,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 </p>
 
 <h3 align="center">🛠 Tools</h3>
@@ -38,6 +64,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black"/>
   <img src="https://img.shields.io/badge/RunPod-6E4AFF?style=flat-square&logo=runpod&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>

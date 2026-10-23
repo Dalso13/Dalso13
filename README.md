@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">🚀 dalso.app</h3>
+<h3 align="center">dalso.app</h3>
 <p align="center">
   Viewer apps for iOS &amp; Android — planned, designed, built and shipped solo.<br/>
   텍스트 뷰어 · 비디오 플레이어 · 파일 매니저를 1인 개발하는 뷰어 앱 브랜드
